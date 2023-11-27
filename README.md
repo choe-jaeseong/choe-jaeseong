@@ -1,20 +1,13 @@
-## ◼ Hi there 👋 I'm Jaeseong Choe
+## ◼ Hi! I'm Jaeseong Choe
 Contact : jaisung0410@gmail.com
 
-## ◼ Career & Education
+## ◼ Education
 - Samsung Software Academy for Youth (2023. 07 ~ )
   - 10th Mobile Track
 - University of Seoul (2017. 03 ~ 2023. 08)
   - Environmental Engineering
 
-## ◼ Interested in
-- Spring
-- Java
-- Kotlin
-- Android
-- Algorithm
-
-## ◼ Skills
+## ◼ Tech Stack and Tools
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic-square&logo=Spring%20Boot&logoColor=white">
@@ -28,7 +21,6 @@ Contact : jaisung0410@gmail.com
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic-square&logo=Amazon%20AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic-square&logo=Docker&logoColor=white"/>
 </div>
 
-## About me
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaisung0410)](https://solved.ac/jaisung0410/)
 <br>
 <br>
