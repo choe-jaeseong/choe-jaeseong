@@ -11,11 +11,10 @@ Contact : jaisung0410@gmail.com
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic-square&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic-square&logo=Amazon%20AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic-square&logo=Docker&logoColor=white"/>
 </div>
