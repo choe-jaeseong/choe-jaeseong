@@ -2,7 +2,7 @@
 Contact : jaisung0410@gmail.com
 
 ## ◼ Education
-- Samsung Software Academy for Youth (2023. 07 ~ )
+- Samsung Software Academy for Youth (2023. 07 ~ 2024. 06)
   - 10th Mobile Track
 
 ## ◼ Tech Stack and Tools
