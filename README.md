@@ -4,6 +4,8 @@ Contact : jaisung0410@gmail.com
 ## ◼ Education
 - Samsung Software Academy for Youth (2023. 07 ~ 2024. 06)
   - 10th Mobile Track
+- University of Seoul (2017. 03 ~ 2023. 08)
+  - Environmental Engineering
 
 ## ◼ Tech Stack and Tools
 <div>
